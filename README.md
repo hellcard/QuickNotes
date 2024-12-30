@@ -4,17 +4,17 @@
 <h3 align="center">launch:</h3>
 
 ```
-$ ./main.o "<arg1>" "<arg2>"
+./main.o "<arg1>" "<arg2>"
 ```
 
 <p align="center">to view all scenarios of this program, you can simply run the executable file:</p>
 
 ```
-$ ./main.o
+./main.o
 ```
 
 <h4 align="center">download</h4>
 
 ```
-
+git clone https://github.com/hellcard/QuickNotes.git
 ```
